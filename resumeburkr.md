@@ -74,4 +74,17 @@ Supplemental Photography Experience: https://www.shutterstock.com/g/Rene834
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Credits: This resume template is from http://www.jasonfilley.com/resumeinmarkdown.html.
