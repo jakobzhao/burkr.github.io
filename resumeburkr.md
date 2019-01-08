@@ -45,24 +45,17 @@ Assisted crew in the recovery of the 1945 workers’ camp at Hanford Nuclear Res
 
 ## H3 Education
 
-* [University 1] 2017: Oregon State University, Corvallis, OR
+* [https://oregonstate.edu/] 2017: Oregon State University, Corvallis, OR
 Currently Enrolled as of Fall 2017
 
-* [University 2] 2003: University of Washington, Seattle, WA
+* [https://www.washington.edu/] 2003: University of Washington, Seattle, WA
 Bachelors of Art in Anthropology with emphasis in Archaeology
 
-* [University 3] 2001 Central Washington University, Seattle, WA
-Archaeological Field School,  Mount Rainier National Park
+* [https://www.burkemuseum.org/] 2001 Burke Museum of Culture and Natural History, 
+Museum Field School,  Seattle, WA
 
-* [University 4] 2001: Central Washington University,
-Archaeological Field School,  Mount Rainier National Park
-
-
-
-## H3 *[University 1]: https://oregonstate.edu/
-*[University 2]: https://www.washington.edu/
-*[University 3]: https://www.burkemuseum.org/
-*[University 4]: https://www.cwu.edu/
+* [https://www.cwu.edu/] 2001: Central Washington University,
+Archaeological Field School,  Mount Rainier National Park, WA
 
 
 | Supplemental  | Table  |
