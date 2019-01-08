@@ -65,10 +65,11 @@ Archaeological Field School,  Mount Rainier National Park
 ...*[University 4]: https://www.cwu.edu/
 
 
-| Supplemental  | Table                                                                 |
-| My Photography Webpage |https://www.shutterstock.com/g/Rene834                        |
-| Photography Lithics Lab|<img src="lithic.png" width="25%" height="25%" align="left"/> |
-| Emojis                 | 🥾🎓👢⛏🚙                                                 |
+| Supplemental  | Table  |
+|-------------- |-------|
+| My Photography Webpage  |https://www.shutterstock.com/g/Rene834 |
+| Photography Lithics Lab  |<img src="lithic.png" width="25%" height="25%" align="left"/> |
+| Emojis                  | 🥾🎓👢⛏🚙 |
 
 
 
