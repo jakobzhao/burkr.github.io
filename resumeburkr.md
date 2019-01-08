@@ -65,6 +65,6 @@ Archaeological Field School,  Mount Rainier National Park
 [University 4]: https://www.cwu.edu/
 
 Supplemental Photography Experience: https://www.shutterstock.com/g/Rene834
-
+<img src="/img/lithic.png" width="25%" height="25%" align="right" />
 
 Credits: This resume template is from http://www.jasonfilley.com/resumeinmarkdown.html.
