@@ -7,7 +7,7 @@
 >
 >
 >
-# Rene Burk
+# H1 Rene Burk
 
 PO Box 1775, Corvallis, OR 97339
 
@@ -17,13 +17,13 @@ mail to: burkr@oregonstate.edu
 
 Online Network: https://www.linkedin.com/in/rene-b
 
-# Summary
+# H2 Summary
 
 Due to my experience in this field, I would be an excellent candidate for this position.
 
-# Work Experience
+# H3 Work Experience
 
-ARCHAEOLOGICAL EXPERIENCE:
+H4 ARCHAEOLOGICAL EXPERIENCE:
 
 Bureau of Land Management, Roseburg-Salem District Office, OR
 Archaeologist-Contractor 2018-Present
@@ -43,46 +43,32 @@ Laboratory Technician- November 2009
 Assisted crew in the recovery of the 1945 workers’ camp at Hanford Nuclear Reservation. Sorted and dried artifacts in the field laboratory.
 
 
-## Education
+## H3 Education
 
 * [University 1] 2017: Oregon State University, Corvallis, OR
 Currently Enrolled as of Fall 2017
 
-* [University 2] 2003: University of Washington, Seattle, WA
+.* [University 2] 2003: University of Washington, Seattle, WA
 Bachelors of Art in Anthropology with emphasis in Archaeology
 
-* [University 3] 2001 Central Washington University, Seattle, WA
+..* [University 3] 2001 Central Washington University, Seattle, WA
 Archaeological Field School,  Mount Rainier National Park
 
-* [University 4] 2001: Central Washington University,
+...* [University 4] 2001: Central Washington University,
 Archaeological Field School,  Mount Rainier National Park
 
 
 
-[University 1]: https://oregonstate.edu/
-[University 2]: https://www.washington.edu/
-[University 3]: https://www.burkemuseum.org/
-[University 4]: https://www.cwu.edu/
-
-Supplemental Photography Experience: https://www.shutterstock.com/g/Rene834
+*[University 1]: https://oregonstate.edu/
+.*[University 2]: https://www.washington.edu/
+..*[University 3]: https://www.burkemuseum.org/
+...*[University 4]: https://www.cwu.edu/
 
 
-<img src="lithic.png" width="25%" height="25%" align="left"/>
-🥾🎓👢⛏🚙
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Supplemental  | Table                                                                 |
+| My Photography Webpage |https://www.shutterstock.com/g/Rene834                        |
+| Photography Lithics Lab|<img src="lithic.png" width="25%" height="25%" align="left"/> |
+| Emojis                 | 🥾🎓👢⛏🚙                                                 |
 
 
 
