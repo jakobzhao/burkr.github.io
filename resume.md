@@ -7,7 +7,7 @@
 >
 >
 >
-# H1 Rene Burk
+# Rene Burk
 
 PO Box 1775, Corvallis, OR 97339
 
@@ -17,13 +17,13 @@ mail to: burkr@oregonstate.edu
 
 Online Network: https://www.linkedin.com/in/rene-b
 
-# H2 Summary
+# Summary
 
 Due to my experience in this field, I would be an excellent candidate for this position.
 
-# H3 Work Experience
+# Work Experience
 
-H4 ARCHAEOLOGICAL EXPERIENCE:
+# ARCHAEOLOGICAL EXPERIENCE:
 
 Bureau of Land Management, Roseburg-Salem District Office, OR
 Archaeologist-Contractor 2018-Present
@@ -43,7 +43,7 @@ Laboratory Technician- November 2009
 Assisted crew in the recovery of the 1945 workers’ camp at Hanford Nuclear Reservation. Sorted and dried artifacts in the field laboratory.
 
 
-## H3 Education
+## Education
 
 * [https://oregonstate.edu/] 2017: Oregon State University, Corvallis, OR
 Currently Enrolled as of Fall 2017
